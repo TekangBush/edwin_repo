@@ -2,4 +2,3 @@ resource "radom" "name" {
   
 }
   
-}
